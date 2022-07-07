@@ -1,12 +1,19 @@
 # Abstracts
 # uncomment the urls if you wish to display them, and add your own URL
 
-# CORS Abstract: Effect of Force Profiles
+# ISTA Abstract: Effect of Anatomical Loading Scenarios on the Glenoid 
+- abstracts: Evaluating the Effect of Anatomical Loading Scenarios on the Fixation Evaluation of Glenoid Implants 
+  role: Presenting Author
+  duration: 2022 
+  url: "https://dcunni9.github.io/ISTA_Effect_of_Loading_Scenario/"
+  description: This abstract was presented at the 2022 International Society for Technology in Arthroplasty conferance.
+
+# CORS Abstract: Effect of Varying Force Profiles on the Humerus
 - abstracts: Evaluating the Effect of Varying Force Profiles on the Stress Analyses of Shoulder Humeral Implants 
   role: Presenting Author
   duration: 2022 
   url: "https://dcunni9.github.io/CORS_ForceProfile2022/"
-  description: This abstract was presented at the 2022 Canadian Orthopaedic Rsearch Association conferance. Please note that a computer may be required to see the interactive plots.
+  description: This abstract was presented at the 2022 Canadian Orthopaedic Rsearch Association conferance.
 
 # CORS Abstract: Micromotion using Digital Methods
 - abstracts: Evaluating Micromotion Measurements in Orthopaedic Implants Relative to Bone
@@ -34,7 +41,7 @@
   role: Presenting Author
   duration: 2022 
   url: "https://dcunni9.github.io/LHRD_LoadingApparatus/"
-  description: This abstract was presented at the 2022 Lawson Health Research Day conferance. These plots are adapted for viewing on a phone.
+  description: This abstract was presented at the 2022 Lawson Health Research Day conferance.
 
   # CORS Abstract: Micromotion using Digital Methods
 - abstracts: General Data Presentation Examples, Misc Presentations
