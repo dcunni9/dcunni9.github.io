@@ -20,9 +20,20 @@
   link: https://rickyratchets.com/
   position: Mechanical Repair Assistant
   duration:  June. 2020  &mdash; Present
-  summary: <ul class="resume-item-list"><li>Welding and fabrication of automotive and shop floor parts. </li><li> Repair, replacement, and procurement of automotive parts and assemblies.  </li><li>Design and fabrication of custom snowplow and motor mounting arrangements. </li><li>Modification to existing vehicle designs. </li><li> Vehicle repair and inspection under the supervision of licenced automotive technicians</li></ul>
+  summary: <ul class="resume-item-list"><li>Welding and fabrication of automotive and shop floor parts. </li><li>Repair, replacement, and procurement of automotive parts and assemblies.  </li><li>Design and fabrication of custom snowplow and motor mounting arrangements. </li><li>Modification to existing vehicle designs. </li><li> Vehicle repair and inspection under the supervision of licenced automotive technicians</li></ul>
   # keywords:
   #   -MATLAB
+
+- #company: Cowboys
+  logo: cowboys_ranch_logo.png
+  link: https://www.cowboysranch.ca/
+  position: Inventory Software Design and Barback
+  duration:  Sept. 2021  &mdash; Present
+  summary: <ul class="resume-item-list"><li>Redesign and recoding of inventory management software. </li><li>Stock updates and dynamic table creation for tracking of liquor variance.  </li><li>Stocking and maintaining inventory. </li></ul>
+  # keywords:
+  #   -Inventory Management
+  #   -Coding
+  #   -Software Design
 
 - #company: Western University
   logo: western_eng.png
