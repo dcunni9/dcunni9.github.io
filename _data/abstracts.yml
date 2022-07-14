@@ -49,3 +49,10 @@
   duration: Present 
   url: "https://dcunni9.github.io/DataWebSharing/"
   description: These figures are examples of different kinds of interactive plots that I have used during a variety of presentations.
+  
+  # UWO Psychology Eating Disorder Application 
+- abstracts: UWO Online Diagnosis Tool for Eating Distoders, UWO Department of Psychology
+  role: Creator
+  duration: Present 
+  url: "https://dcunni9.pythonanywhere.com"
+  description: This web-based survey application was developed as a clinical tool to analyze and report on the patient-specific psychological factors contributing to individual eating disorders.
