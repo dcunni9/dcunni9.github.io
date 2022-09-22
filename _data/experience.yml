@@ -24,6 +24,17 @@
   # keywords:
   #   -MATLAB
 
+- #company: LAVISH
+  logo: lavish.png
+  link: https://www.lavishlondon.ca/
+  position: Bartender
+  duration:  August. 2022  &mdash; Present
+  summary: <ul class="resume-item-list"><li>Bartending and inventory management of liquor products.</li><li>Cleaning and secure storage of product as per AGCO regulations.</li><li>Monitoring and limiting consumption in guests based on SmartServe requirements.</li><li>Counting and secure transfer of cash post-shift. </li></ul>
+  # keywords:
+  #   -Inventory Management
+  #   -Coding
+  #   -Software Design
+
 - #company: Cowboys
   logo: cowboys_ranch_logo.png
   link: https://www.cowboysranch.ca/
