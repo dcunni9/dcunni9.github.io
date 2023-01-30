@@ -53,10 +53,10 @@
       <!-- begin Dissertation -->
       <section class="content-section">
         <header class="section-header">
-          <h2>Dissertation: Paradigm shifts in the Assessment of Shoulder Arthroplasty Prosthetic Implants </h2>
+          <h2>Dissertation: Paradigm shifts in the Assessment of Shoulder Arthroplasty Prosthetic Implants</h2>
         </header>
 
-        {% for publication in site.data.dissertationchapters %}
+        {% for publication in site.data.publications %}
         <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
           <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
           <h3 class="resume-item-details" itemprop="name">{% if publication.url %}<a href="{{ publication.url }}" itemprop="url">{{ publication.publication }}</a>{% else %}{{ publication.publication }}{% endif %}</h3>
@@ -65,10 +65,10 @@
         {% endfor %}
 
       </section>
-      <!-- end Dissertation -->
+      <!-- end Publications -->
       {% endif %}
 
-      
+
       {% if site.resume_section_experience %}
       <!-- begin Experience -->
       <section class="content-section">
