@@ -3,8 +3,13 @@
 # make sure to use dois for the url
 
 
-- publication: Introduction
-  journal: Background and History of RTSA.
-#  date: Dec. 2021
+- publication: Chapter 1
+  journal: Introduction
+  date: Describing the relevant anatomy and the background/history of RTSA.
+#  url: "https://doi.org/10.1002/jor.25239"
+
+- publication: Chapter 2
+  journal: Developing a System for the Evaluation of Novel Shoulder Implant Designs 
+  date: Explaing the process for design and validation of a novel shoulder loading apparatus.
 #  url: "https://doi.org/10.1002/jor.25239"
 
