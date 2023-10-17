@@ -1,10 +1,17 @@
 # otherawards
 - award: Silver Medal - Men's Classic Physique 
   organization: Natural Stephanie Worsfold Classic 
+  url: http://www.cpapresidentscup.com/
+  #url: https://www.canadianphysiquealliance.com/event-listing/2023-cpa-presidents-cup-natural
+  year: 2023
+  summary: Awarded - Second Place (National Compeition Qualification)
+
+- award: Silver Medal - Men's Classic Physique 
+  organization: Natural Stephanie Worsfold Classic 
   url: http://www.stephanieworsfoldclassic.ca/
   #url: https://canadianphysiqueassociation.ca/event-listing/2022-stephanie-worsford-natural-classic
   year: 2022
-  summary: Awarded - Second Place
+  summary: Awarded - Second Place (National Compeition Qualification)
 
 - award: Gold Medal - Senior Men 66kg 4+ 
   organization: Canadian Secondary Schools Rowing Association  
