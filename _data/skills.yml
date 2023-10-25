@@ -5,30 +5,31 @@
 
 - skill: Data Modeling / Statistical Analysis
   rating: 5
-  libraries: Pandas • VAEX • NumPy • SciPy • Excel • SQL
+  libraries: Pandas • VAEX • NumPy • SciPy • Excel • SQL • MatLAB • Scikit-learn
 
 - skill: Data Visualization 
   rating: 5
-  libraries: Plotly • Dash • Matplotlib
+  libraries: Plotly • Dash • Matplotlib • Vedo
+
+- skill: Experimental Testing
+  rating: 5
+  libraries: Nidaqmx • Pypylon • LabVIEW • Strain-Gauges • Force-Sensors • High-Resolution Machine Vision Cameras
 
 - skill: FEA and CAD Modelling
   rating: 4
-  libraries: Abaqus CAE • Solidworks CAD and FEA (CSWA-S) • MicroStation v7 and v8 • PVElite • CAESAR II
+  libraries: Abaqus CAE • Solidworks CAD and FEA (CSWA & CSWA-S) • MicroStation v7 and v8 • PVElite • CAESAR II
 
 - skill: Manufacturing Software
   rating: 4
-  libraries: SAP Business and Inventory • SmartPlant Foundation • LabVIEW • MatLAB • AMS Machinery Health • SharePoint
+  libraries: SAP Business and Inventory • SmartPlant Foundation • LabVIEW • AMS Machinery Health • SharePoint
 
 - skill: Manufacturing Tools/Standards
   rating: 4
   libraries: ASTM • ASME B31.3 • OSHA • CSA • API • WHMIS Standards • 6-Sigma • Kaizen • Critical Path Method • DFM • DFAAnalysis
 
-- skill: MatLAB
-  rating: 4
-
 - skill: Web/Application Development 
   rating: 3
-  libraries: html • Tkitner • ruby
+  libraries: html • Tkitner • Ruby • Bottle • Openai • Pillow
 
 - skill: English
   rating: 5
