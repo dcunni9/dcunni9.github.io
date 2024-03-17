@@ -1,6 +1,27 @@
 # Abstracts
 # uncomment the urls if you wish to display them, and add your own URL
 
+# ISTA Abstract: Evaluating the Effect of Simulating Extreme Physiological Loads in the Evaluation ofStemless Reverse Humeral Component Fixation
+- abstracts: Evaluating the Effect of Simulating Extreme Physiological Loads in the Evaluation ofStemless Reverse Humeral Component Fixation
+  role: Presenting Author
+  duration: 2023
+  #url: "https://dcunni9.github.io/ISTA_Effect_of_Loading_Scenario/"
+  description: This abstract was presented at the 2023 International Society for Technology in Arthroplasty conferance.
+
+  # ISTA Abstract: Evaluating the Effect of Neck Shaft Angle on Stemless Reverse Humeral Component Fixation
+- abstracts: Evaluating the Effect of Neck Shaft Angle on Stemless Reverse Humeral Component Fixation
+  role: Presenting Author
+  duration: 2023
+  #url: "https://dcunni9.github.io/ISTA_Effect_of_Loading_Scenario/"
+  description: This abstract was presented at the 2023 International Society for Technology in Arthroplasty conferance.
+
+  # CORS Abstract: Evaluating the Effect of Varying Neck Shaft Angle in Reverse Humeral Component Fixation
+- abstracts: Evaluating the Effect of Varying Neck Shaft Angle in Reverse Humeral Component Fixation
+  role: Presenting Author
+  duration: 2023
+  #url: "https://dcunni9.github.io/ISTA_Effect_of_Loading_Scenario/"
+  description: This abstract was presented at the 2023 Canadian Operational Research Society Conference
+
 # ISTA Abstract: Effect of Anatomical Loading Scenarios on the Glenoid 
 - abstracts: Evaluating the Effect of Anatomical Loading Scenarios on the Fixation Evaluation of Glenoid Implants 
   role: Presenting Author
