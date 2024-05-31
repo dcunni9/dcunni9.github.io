@@ -26,7 +26,7 @@
   url: "https://www.tandfonline.com/doi/full/10.1080/87567555.2023.2181307"
   pdf: "https://dcunni9.github.io/articlepdfs/Leveraging_Kindness.pdf"
 
-  - publication: py_BMD_abaqus
+- publication: py_BMD_abaqus
   journal: PyPI
   date: May 2024
   url: "https://pypi.org/project/py-bmd-abaqus/"

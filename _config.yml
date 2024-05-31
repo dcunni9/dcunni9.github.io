@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "David Cunningham, Ph.D."
+resume_name:                    "David Cunningham"
 resume_title:                   "Doctor of Mechanical and Materials Engineering and Data Scientist"
 
 # used for the contact button in _layouts/resume.html
