@@ -2,23 +2,23 @@
 # uncomment the urls if you wish to display them, and add your own URL
 # make sure to use dois for the url
 
-- publication: Primary Stability Analysis of Stemless Humeral Implants in Shoulder Arthroplasty (Sole Author)
+- publication: An Analysis of Primary Stability of Stemless Humeral Implants in Shoulder Arthroplasty (Sole Author)
   journal: University of Western Ontario Thesis and Dissertation Repository
   date: May 2024
   url: "Currently Under Review"
-  #pdf: "https://dcunni9.github.io/articlepdfs/StemlessRTSA_Computational.pdf"
+  pdf: "https://dcunni9.github.io/articlepdfs/AnAnalysisofPrimaryStabilityofStemlessHumeralImplants.pdf"
 
 - publication: Stemless Reverse Shoulder Arthroplasty Neck-Shaft Angle Influences Humeral Component Time-Zero Fixation and Survivorship - A Cadaveric Biomechanical Assessment (Primary Author)
   journal: Journal of Shoulder and Elbow Surgery - International
   date: April 2024
   url: "https://doi.org/10.1016/j.jseint.2024.04.001"
-  pdf: "https://dcunni9.github.io/articlepdfs/StemlessRTSA_Experimental.pdf"
+  pdf: "https://dcunni9.github.io/articlepdfs/Cunningham_NSA_Experimental.pdf"
 
 - publication: Stemless Reverse Humeral Component Neck Shaft Angle has an Influence on Initial Fixation. (Primary Author)
   journal: Journal of Shoulder and Elbow Surgery 
   date: July 2023
   url: "https://doi.org/10.1016/j.jse.2023.06.035"
-  pdf: "https://dcunni9.github.io/articlepdfs/StemlessRTSA_Computational.pdf"
+  pdf: "https://dcunni9.github.io/articlepdfs/Cunningham_NSA_Computational.pdf"
 
 - publication: Leveraging Kindness in Canadian Post-Secondary Education - A Conceptual Paper. (Co-Author)
   journal: Journal of College Teaching
