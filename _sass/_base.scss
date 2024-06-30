@@ -35,12 +35,12 @@ body{
 .group { zoom:1; /* For IE 6/7 (trigger hasLayout) */ }
 
 ::-moz-selection {
-    background: $gray;
+    background: $white;
     color: $white;
     text-shadow: none;
 }
 ::selection {
-    background: $gray;
+    background: $white;
     color: $white;
     text-shadow: none;
 }
