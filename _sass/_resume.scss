@@ -81,7 +81,7 @@
   position: relative;
   top: 4px;
   text-align: center;
-  border-top: 2px solid $offslate;
+  border-top: 2px solid $offslate; 
   padding-top: .4rem;
 
   @include media_larger_than_mobile {
