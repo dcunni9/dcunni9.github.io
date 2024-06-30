@@ -2,22 +2,32 @@
 # uncomment the urls if you wish to display them, and add your own URL
 # make sure to use dois for the url
 
-- certifications: General
-  awarder: G License, M License, Smart Serve, PADI Open Water, BoatSmart, WhiteSail
-  date: No Expiry 
+- certifications: Engineering Tools
+  awarder: SOLIDWORKS CAD Design Associate (CSWA), SolidWorks Simulation Associate (CSWA-S)
+  #date: No Expiry 
+  #url: "https://doi.org/10.1002/jor.25239"
+
+- certifications: Leadership Tools
+  awarder: Lean Six Sigma Green Belt, Lean Six Sigma Yellow Belt
+  #date: No Expiry 
   #url: "https://doi.org/10.1002/jor.25239"
 
 - certifications: Education
   awarder: Responding to Disclosures of Sexual Violence on Campus (Extended), Supporting Disclosures of GBSV, AODA - Accessibility in Teaching, Teaching and Mental Health, Western Safe Campus Community
-  date: No Expiry 
+  #date: No Expiry 
   #url: "https://doi.org/10.1002/jor.25239"
 
 - certifications: Laboratory
   awarder: Biosafety, Laboratory Safety and Hazardous Waste Management, Worker Health and Safety
-  date: No Expiry 
+  #date: No Expiry 
   #url: "https://doi.org/10.1002/jor.25239"
 
-- certifications: WHIMIS
+- certifications: WHIMIS 2024
   #awarder: Western University
-  date: Expires Feb 2024
+  #date: Expires Feb 2024
+  #url: "https://doi.org/10.1002/jor.25239"
+
+- certifications: Other
+  awarder: G License, M License, Smart Serve, PADI Open Water, BoatSmart, WhiteSail
+  #date: No Expiry 
   #url: "https://doi.org/10.1002/jor.25239"
