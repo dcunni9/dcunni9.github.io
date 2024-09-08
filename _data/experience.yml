@@ -1,6 +1,12 @@
 # Jobs
-
-
+- #company: Roth McFarlane Hand and Upper Limb Centre, St. Joseph's Health Care London
+  logo: CNL.png
+  link: hhttps://www.cnl.ca/
+  position: Mechanical Development Engineer (EIT)
+  duration:  August 2024 &mdash; Present
+  summary: <ul class="resume-item-list"><li>Mechanical engineering of various solutions. Unable to disclose further details.</li></ul>
+  # keywords:
+  #   - Python
 
 - #company: Roth McFarlane Hand and Upper Limb Centre, St. Joseph's Health Care London
   logo: hulc.png
