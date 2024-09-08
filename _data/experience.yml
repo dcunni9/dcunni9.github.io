@@ -1,6 +1,15 @@
 # Jobs
 
 - #company: Roth McFarlane Hand and Upper Limb Centre, St. Joseph's Health Care London
+  logo: CNL.png
+  link: hhttps://www.cnl.ca/
+  position: Canadian Nuclear Laboratories Mechanical Engineer (EIT)
+  duration:  May. 2020 &mdash; Present
+  summary: <ul class="resume-item-list"><li>Mechanical Engineering. Unable to Disclose.</li></ul>
+  # keywords:
+  #   - Python
+
+- #company: Roth McFarlane Hand and Upper Limb Centre, St. Joseph's Health Care London
   logo: hulc.png
   link: https://www.sjhc.london.on.ca/areas-of-care/roth-mcfarlane-hand-and-upper-limb-centre-hulc
   position: Research and Development Engineer (EIT)
@@ -24,27 +33,27 @@
   # keywords:
   #   -MATLAB
 
-- #company: LAVISH
-  logo: lavish.png
-  link: https://www.richmondtavern.ca/
-  position: Bartender
-  duration:  August. 2022  &mdash; Present
-  summary: <ul class="resume-item-list"><li>Bartending and inventory management of liquor products.</li><li>Cleaning and secure storage of product as per AGCO regulations.</li><li>Monitoring and limiting consumption in guests based on SmartServe requirements.</li><li>Counting and secure transfer of cash post-shift.</li><li>Standard opening and closing duties.</li><li>Management of housing facilities and renting of rooms above the bar during shift. </li></ul>
-  # keywords:
-  #   -Bartending
-  #   -Money management
-  #   -Cleaning
-
 - #company: Cowboys
   logo: cowboys_ranch_logo.png
   link: https://www.cowboysranch.ca/
-  position: Inventory Software Design and Bartender
-  duration:  Sept. 2021  &mdash; Present
+  position: Inventory Software Software Designer and Bartender
+  duration:  Sept. 2021  &mdash; June 2024
   summary: <ul class="resume-item-list"><li>Redesign and recoding of inventory management software.</li><li>Stock updates and dynamic table creation for tracking of liquor variance.  </li><li>Bartending - including inventory and use measurements before and after shift. </li></ul>
   # keywords:
   #   -Inventory Management
   #   -Coding
   #   -Software Design
+
+- #company: LAVISH
+  logo: lavish.png
+  link: https://www.richmondtavern.ca/
+  position: Bartender
+  duration:  August. 2022  &mdash; September 2023
+  summary: <ul class="resume-item-list"><li>Bartending and inventory management of liquor products.</li><li>Cleaning and secure storage of product as per AGCO regulations.</li><li>Monitoring and limiting consumption in guests based on SmartServe requirements.</li><li>Counting and secure transfer of cash post-shift.</li><li>Standard opening and closing duties.</li><li>Management of housing facilities and renting of rooms above the bar during shift. </li></ul>
+  # keywords:
+  #   -Bartending
+  #   -Money management
+  #   -Cleaning
 
 - #company: Western University
   logo: western_eng.png
