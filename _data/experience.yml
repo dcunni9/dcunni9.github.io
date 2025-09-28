@@ -32,7 +32,7 @@
   # keywords:
   #   -MATLAB
 
-- #company: Cowboys
+#- #company: Cowboys
   #logo: cowboys_ranch_logo.png
   #link: https://www.cowboysranch.ca/
   #position: Inventory Software Software Designer and Bartender
@@ -43,7 +43,7 @@
   #   -Coding
   #   -Software Design
 
-- #company: LAVISH
+#- #company: LAVISH
   #logo: lavish.png
   #link: https://www.richmondtavern.ca/
   #position: Bartender
