@@ -6,70 +6,70 @@
   role: Presenting Author
   duration: 2025
   url: "https://dcunni9.github.io/CNS_DIET25_AdvancedManufacturing/"
-  description: This abstract was presented at the Canadian Nuclear Society - Disruptive, Innovative, and Emerging Technologies Conference 2025 conferance.
+  description: Cunningham D, Sansoucy E, Read S, Waldbillig D. Establishing a Framework for the Advanced Manufacturing of a Molten Salt Reactor Heat Exchanger Using Powder Bed Fusion and Direct Energy Deposition (2025). Canadian Nuclear Society – Disruptive, Innovative, and Emerging Technologies Conference, Toronto, Ontario, Canada.
 
 # ISTA Abstract: Evaluating the Effect of Simulating Extreme Physiological Loads in the Evaluation ofStemless Reverse Humeral Component Fixation
 - abstracts: Evaluating the Effect of Simulating Extreme Physiological Loads in the Evaluation ofStemless Reverse Humeral Component Fixation
   role: Presenting Author
   duration: 2023
   #url: "https://dcunni9.github.io/ISTA_Effect_of_Loading_Scenario/"
-  description: This abstract was presented at the 2023 International Society for Technology in Arthroplasty conferance.
+  description: Cunningham D, Lanoghr D, Athwal GS. Johnson JA. Evaluating the Effect of Simulating Extreme Physiological Loads on Interface Fixation of Stemless Reverse Humeral Component Fixation (2023). 34th International Congress of the International Society for Technology in Arthroplasty, New York City, New York, USA.
 
   # ISTA Abstract: Evaluating the Effect of Neck Shaft Angle on Stemless Reverse Humeral Component Fixation
 - abstracts: Evaluating the Effect of Neck Shaft Angle on Stemless Reverse Humeral Component Fixation
   role: Presenting Author
   duration: 2023
   #url: "https://dcunni9.github.io/ISTA_Effect_of_Loading_Scenario/"
-  description: This abstract was presented at the 2023 International Society for Technology in Arthroplasty conferance.
+  description: Cunningham D, Spangenberg GW, Lanoghr D, Athwal GS, Johnson JA. Evaluating the Effect of Neck Shaft Angle on Stemless Reverse Humeral Component Fixation (2023). 34th International Congress of the International Society for Technology in Arthroplasty, New York City, New York, USA.
 
   # CORS Abstract: Evaluating the Effect of Varying Neck Shaft Angle in Reverse Humeral Component Fixation
 - abstracts: Evaluating the Effect of Varying Neck Shaft Angle in Reverse Humeral Component Fixation
   role: Presenting Author
   duration: 2023
   #url: "https://dcunni9.github.io/ISTA_Effect_of_Loading_Scenario/"
-  description: This abstract was presented at the 2023 Canadian Operational Research Society Conference
+  description: Cunningham D, Spangenberg GW, Lanoghr D, Athwal GS, Johnson JA. Evaluating the Effect of Neck Shaft Angle in Stemless Reverse Humeral Component Fixation (2023). Annual CORS Conference, Calgary, Alberta, Canada.
 
 # ISTA Abstract: Effect of Anatomical Loading Scenarios on the Glenoid 
 - abstracts: Evaluating the Effect of Anatomical Loading Scenarios on the Fixation Evaluation of Glenoid Implants 
   role: Presenting Author
   duration: 2022 
   url: "https://dcunni9.github.io/ISTA_Effect_of_Loading_Scenario/"
-  description: This abstract was presented at the 2022 International Society for Technology in Arthroplasty conferance.
+  description: Cunningham D, Fleet C, Ferguson D, Athwal G, Johnson J. Evaluating the Effect of Anatomical Loading Scenarios on the Fixation Evaluation of Glenoid Implants (2022). 33rd International Congress of the International Society for Technology in Arthroplasty, Maui, Hawaii, USA.
 
 # CORS Abstract: Effect of Varying Force Profiles on the Humerus
 - abstracts: Evaluating the Effect of Varying Force Profiles on the Stress Analyses of Shoulder Humeral Implants 
   role: Presenting Author
   duration: 2022 
   url: "https://dcunni9.github.io/CORS_ForceProfile2022/"
-  description: This abstract was presented at the 2022 Canadian Orthopaedic Research Association conferance.
+  description: Cunningham D, Spangenberg G, Langohr D, Athwal G, Johnson J. Evaluating the Effect of Varying Force Profiles on the Stress Analyses of Shoulder Humeral Implants (2022). Annual CORS Conference, Québec City, Québec, Canada.
 
 # CORS Abstract: Micromotion using Digital Methods
 - abstracts: Evaluating Micromotion Measurements in Orthopaedic Implants Relative to Bone
   role: Presenting Author
   duration: 2022 
   url: "https://dcunni9.github.io/CORS_Micromotion2022/"
-  description: This abstract was presented at the 2022 Canadian Orthopaedic Research Association conferance.
+  description: Cunningham D, Fleet C, Athwal G, Johnson J. Evaluating Micromotion Measurements in Orthopaedic Implants Relative to Bone (2022). Annual CORS Conference, Québec City, Québec, Canada.
 
 #BJI Abstract: Micromotion using Digital Methods
 - abstracts: Evaluating the Efficacy of Measuring Implant-bone Fixation Methods in the Evaluation of Orthopaedic Implants
   role: Presenting Author
   duration: 2022 
   url: "https://dcunni9.github.io/BJI_Micromotion2022/"
-  description: This abstract was presented at Western's 2022 Bone and Joint conferance.
+  description: Cunningham D, Athwal G, Johnson J. Evaluating the Efficacy of Measuring Implant-bone Fixation Methods in the Evaluation of Orthopaedic Implants (2022). 5th Annual Meeting of the Canadian Bone and Joint Conference, London, Ontario, Canada (Online).
 
   # Project: Developing an Optimized Method for FE Evaluation 
 - abstracts: Evaluating the Effect of a Plan-Rerun Approach in the FE Evaluation of Orthopaedic Prosthetics
   role: Author
   duration: 2022 
   url: "https://dcunni9.github.io/FEAEvaluationofStepSize/"
-  description: This project was completed for the course MME9655 - Impact Biomechanics; in partial fulfilment of the requirements for the degree of Doctor of Philosophy at the Unviersity of Western Ontario.
+  description: Cunningham D. Evaluating the Effect of a Plan-Rerun Approach in the FE Evaluation of Orthopaedic Prosthetics (2022). Impact Biomechanics in partial fulfilment of the requirements for the degree of Doctor of Philosophy at the University of Western Ontario., London, Ontario, Canada (In-print).
 
   # LHRD Abstract: Development of a 3D Loading Apparatus 
 - abstracts: Development of an Automated Test Bed to Assess the Performance of Shoulder Implants
   role: Presenting Author
   duration: 2022 
   url: "https://dcunni9.github.io/LHRD_LoadingApparatus/"
-  description: This abstract was presented at the 2022 Lawson Health Research Day conferance.
+  description: Cunningham D, Athwal G, Johnson J. Development of an Automated Test Bed to Assess the Performance of Shoulder Implants (2022). Lawson Health Research Day, London, Ontario, Canada (Online).
 
   # CORS Abstract: Micromotion using Digital Methods
 - abstracts: General Data Presentation Examples, Misc Presentations
